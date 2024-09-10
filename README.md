@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="350" src="https://media1.tenor.com/m/H1n9Nb3HBPkAAAAC/minecraft-roblox.gif">
+<img align="right" alt="Coding" width="350" src="https://media.tenor.com/2Ua7f3x6MJcAAAAi/nero-dance.gif">
 
 ![UnitZ9's GitHub stats](https://github-readme-stats.vercel.app/api?username=UnitZ9&theme=shadow_red&show_icons=true)
 
