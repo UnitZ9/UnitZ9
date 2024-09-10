@@ -6,6 +6,8 @@
 ![UnitZ9's GitHub stats](https://github-readme-stats.vercel.app/api?username=UnitZ9&theme=shadow_red&show_icons=true)
 
 
+<video src='https://youtu.be/_ey3V4R31aA?si=k7fSnpHjxgVsepv2' width=180/>
+
 <!---
 UnitZ9/UnitZ9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
