@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="350" src="https://media.tenor.com/2Ua7f3x6MJcAAAAi/nero-dance.gif">
+<img align="right" alt="Coding" width="350" src="https://tenor.com/view/ratinrat-rat-rats-aboba-gif-22589849">
 
 ![UnitZ9's GitHub stats](https://github-readme-stats.vercel.app/api?username=UnitZ9&theme=shadow_red&show_icons=true)
 
