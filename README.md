@@ -6,7 +6,6 @@
 ![UnitZ9's GitHub stats](https://github-readme-stats.vercel.app/api?username=UnitZ9&theme=shadow_red&show_icons=true)
 
 
-[![Watch the video](https://raw.githubusercontent.com/UnitZ9/main/Y2mate.mx-Neco arc ДОВЕРИЛИ ОГНЕСТРЕЛЬНОЕ ОРУЖИЕ_! (AI COVER).mp4)]
 
 <!---
 UnitZ9/UnitZ9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
